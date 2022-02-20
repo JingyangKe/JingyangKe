@@ -28,8 +28,8 @@
   ],
   "workExpList": [
     {
-      "company_name": "Georgia Institute of Technology",
-      "department_name": "\nSystems Neural Engineering Lab",
+      "company_name": "Georgia Tech",
+      "department_name": "Systems Neural Engineering Lab",
       "work_time": ["2021.02", "present"],
       "work_desc": "Undergraduate Research Assistant. Lead the development of RADICaL 1p and coordinate the collaboration with experimental labs."
     },
