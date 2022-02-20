@@ -37,7 +37,7 @@
       "company_name": "Emory University",
       "department_name": "School of Medicine",
       "work_time": ["2021.05", "2021.08"],
-      "work_desc": "Research Intern. Developed a comparative analysis pipeline for synchronous one-photon calcium imaging data and animal behavior data. Improved the internet infrastructure of data storage and transform among labs."
+      "work_desc": "Research Intern. Developed a comparative analysis pipeline for synchronous one-photon calcium imaging data and animal behavior data. Applied deep learning models to explore the neural population dynamics and the relationship between neural and behavior data. Improved the internet infrastructure of data storage and transform among labs."
     },
     {
       "company_name": "Iflytek Co., Ltd.",
@@ -86,13 +86,6 @@
       "project_time": "2021.08 - present",
       "project_desc": "A deep learning tool based on LFADS, a sequential model with RNN-based variational auto-encoder to infer brain neural activities from noisy one-photon calcium imaging data",
       "project_content": "\n1. Design and implement the deep learning model on Tensorflow 2 \n2. Perform data cleaning on raw data, test the model and analyze result data to check the performance"
-    },
-    {
-      "project_name": "Pharmacological Treatment Analysis for Dystonia and Parkinson's Disease",
-      "project_role": "Data Engineer",
-      "project_time": "2021.02 - present",
-      "project_desc": "Explore animals' neural activities and behaivors to discover and verify the effect of candidate drugs on Dystonia and Parkinson's Disease",
-      "project_content": "\n1. Developed a comparative data analysis and visualization pipeline for animals' neural and behavior data \n2. Apply deep learning models to explore the neural population dynamics and the relationship between neural and behavior data"
     },
     {
       "project_name": "Odeon",
