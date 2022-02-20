@@ -32,13 +32,13 @@
       "company_name": "Georgia Institute of Technology",
       "department_name": "Systems Neural Engineering Lab",
       "work_time": ["2021.02", null],
-      "work_desc": "Undergraduate Research Assistant. Lead the development of RADICaL for one-photon calcium imaging, a novel deep learning model to infer neural populations from noisy one-photon calcium imaging data. "
+      "work_desc": "Undergraduate Research Assistant. Lead the development of RADICaL for one-photon calcium imaging, a novel deep learning model to infer neural population dynamics from noisy one-photon calcium imaging data. Coordinate the lab's collaboration with experimental labs on calcium imaging experiments. Perform Tensorflow 1 to Tensorflow 2 migration on lab's previous projects."
     },
     {
       "company_name": "Emory University",
       "department_name": "School of Medicine",
       "work_time": ["2021.05", "2021.08"],
-      "work_desc": "Research Intern. Developed a comparative analysis pipeline for one-photon calcium imaging data and animal behavior data with CaImAn and DeepLabCut.  "
+      "work_desc": "Research Intern. Developed a comparative analysis pipeline for synchronous one-photon calcium imaging data and animal behavior data with CaImAn and DeepLabCut. Upgrade the internet infrastructure of data storage and transform among labs."
     },
     {
       "company_name": "Iflytek Co., Ltd.",
