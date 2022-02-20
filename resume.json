@@ -17,6 +17,7 @@
     "email": "jingyang.ke@outlook.com • jingyang.ke@gatech.edu",
     "mobile": "+1-4044888479 • +86-13705650279",
     "github": "https://github.com/JingyangKe",
+
     "workExpYear": "",
     "positionTitle": ""
   },
@@ -44,7 +45,7 @@
       "company_name": "Iflytek Co., Ltd.",
       "department_name": "R&D Group",
       "work_time": ["2020.05", "2020.07"],
-      "work_desc": "Software Engineer Intern in cloud computing. Maintained the voice cloud database of Iflytek under the structure of Hadoop and Scala-based Spark, responded to the demand of mass voice data extraction and developed a data extraction platform for cloud database end users."
+      "work_desc": "Software Engineer Intern in cloud computing. Maintained the voice cloud database of Iflytek under the structure of Hadoop and Scala-based Spark. Responded to the demand of mass voice data extraction, developed a data extraction platform for cloud database end users and wrote documentation in company's wiki to solidify the data extraction process."
     }
   ],
   "awardList": [],
@@ -86,7 +87,7 @@
       "project_role": "Project Leader and Developer",
       "project_time": "2021.08 - present",
       "project_desc": "RADICaL 1p is deep learning tool based on LFADS, a sequential model with RNN-based variational auto-encoder to infer brain neural activities from noisy one-photon calcium imaging data.",
-      "project_content": "\n1. Design and implement the deep learning model on Tensorflow 2 \n2. Perform data cleaning on the raw data.  \n3. Test the model and analyze result data to check the performance"
+      "project_content": "\n1. Design and implement the deep learning model on Tensorflow 2 \n2. Perform data cleaning on raw data, test the model and analyze result data to check the performance"
     },
     {
       "project_name": "Pharmacological Treatment Analysis for Dystonia and Parkinson's Disease",
@@ -105,6 +106,6 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 Focus on data engineering and research \n 能力项：沟通协调能力、执行力\n自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。"
+    "aboutme_desc": "🌱 Focus on data engineering and research \n Soft Skills：Communication, Teamwork, Problem Solving, Self-management \n Have industry cloud computing and big data engineering experience as well as machine learning research experience. Looking for a role where I can grow and learn from senior team members while applying my knowledge to contribute to the team's work."
   }
 }
