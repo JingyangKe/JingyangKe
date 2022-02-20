@@ -31,19 +31,19 @@
       "company_name": "Georgia Institute of Technology",
       "department_name": "\nSystems Neural Engineering Lab",
       "work_time": ["2021.02", "present"],
-      "work_desc": "Undergraduate Research Assistant. Lead the development of RADICaL 1p, coordinate the collaboration with experimental labs, perform Tensorflow 1 to Tensorflow 2 migration on lab's previous projects."
+      "work_desc": "Undergraduate Research Assistant. Lead the development of RADICaL 1p and coordinate the collaboration with experimental labs."
     },
     {
       "company_name": "Emory University",
       "department_name": "School of Medicine",
       "work_time": ["2021.05", "2021.08"],
-      "work_desc": "Research Intern. Developed a comparative analysis pipeline for synchronous one-photon calcium imaging data and animal behavior data. Improve the internet infrastructure of data storage and transform among labs."
+      "work_desc": "Research Intern. Developed a comparative analysis pipeline for synchronous one-photon calcium imaging data and animal behavior data. Improved the internet infrastructure of data storage and transform among labs."
     },
     {
       "company_name": "Iflytek Co., Ltd.",
       "department_name": "R&D Group",
       "work_time": ["2020.05", "2020.07"],
-      "work_desc": "Software Engineer Intern in cloud computing. Maintained the voice cloud database of Iflytek under the structure of Hadoop and Scala-based Spark. Developed a data extraction platform for cloud database end users and wrote documentation in company's wiki to solidify the data extraction process."
+      "work_desc": "Software Engineer Intern in cloud computing. Maintained the voice cloud database of Iflytek under the structure of Hadoop and Scala-based Spark. Developed a data extraction platform for cloud database end users and wrote solidified data extraction process in company wiki."
     }
   ],
   "awardList": [],
