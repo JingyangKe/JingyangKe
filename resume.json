@@ -86,14 +86,14 @@
       "project_role": "Project Leader and Developer",
       "project_time": "2021.08 - present",
       "project_desc": "RADICaL 1p is deep learning tool based on LFADS, a sequential model with RNN-based variational auto-encoder to infer brain neural activities from noisy one-photon calcium imaging data.",
-      "project_content": "\n1. Design and implement the deep learning model on Tensorflow 2 \n2. Preprocess testing data with CaImAn \n3. Perform data analysis on results to check RADICaL 1p's performance"
+      "project_content": "\n1. Design and implement the deep learning model on Tensorflow 2 \n2. Perform data cleaning on the raw data.  \n3. Test the model and analyze result data to check the performance"
     },
     {
       "project_name": "Pharmacological Treatment Analysis for Dystonia and Parkinson's Disease",
       "project_role": "Data Engineer",
       "project_time": "2021.02 - present",
       "project_desc": "Explore animals' neural activities and behaivors to discover and verify the effect of candidate drugs on Dystonia and Parkinson's Disease",
-      "project_content": "\n1. Developed a Python-based comparative data analysis pipeline with CaImAn and DeepLabCut on animals' neural and behavior data \n2. Performed data visualization with Matplotlib and Pandas "
+      "project_content": "\n1. Developed a Python-based comparative data analysis pipeline with CaImAn and DeepLabCut on animals' neural and behavior data \n2. Performed data visualization with Matplotlib and Pandas \n3. Apply deep learning models to explore the neural population dynamics and the relationship between neural and behavior data"
     },
     {
       "project_name": "Odeon",
@@ -105,6 +105,6 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 Focus on \n 能力项：沟通协调能力、执行力\n自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。"
+    "aboutme_desc": "🌱 Focus on data engineering and research \n 能力项：沟通协调能力、执行力\n自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。"
   }
 }
