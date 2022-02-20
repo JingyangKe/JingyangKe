@@ -52,33 +52,33 @@
     {
       "skill_name": "Python",
       "skill_desc": "",
-      "skill_level": 90
+      "skill_level": 85
     },
     {
       "skill_name": "Java",
       "skill_desc": "",
-      "skill_level": 82
+      "skill_level": 80
     },
     {
       "skill_name": "Scala",
       "skill_desc": "",
-      "skill_level": 82
+      "skill_level": 80
     },
     {
       "skill_name": "Machine Learning",
       "skill_desc": "",
-      "skill_level": 85
+      "skill_level": 80
     },
     {
       "skill_name": "Hadoop and Spark",
       "skill_desc": "",
-      "skill_level": 80
+      "skill_level": 75
     },
     {
       "skill_name": "Data Visulization",
       "skill_desc": "",
-      "skill_level": 80
-    },
+      "skill_level": 78
+    }
   ],
   "projectList": [
     {
@@ -92,8 +92,8 @@
       "project_name": "Pharmacological Treatment Analysis for Dystonia and Parkinson's Disease",
       "project_role": "Data Engineer",
       "project_time": "2021.02 - present",
-      "project_desc": "Explore the ",
-      "project_content": "1. Developed a Python-based comparative data analysis pipeline 2. Perform data visualization "
+      "project_desc": "Explore the relationship between animals' neural activities, behaivors and certain medicine does to ",
+      "project_content": "1. Developed a Python-based comparative data analysis pipeline 2. Perform data visualization with Matplotlib and Pandas "
     },
     {
       "project_name": "Odeon",
