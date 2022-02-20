@@ -32,7 +32,7 @@
       "company_name": "Georgia Institute of Technology",
       "department_name": "Systems Neural Engineering Lab",
       "work_time": ["2021.02", null],
-      "work_desc": "Undergraduate Research Assistant. Lead the development of RADICaL 1p, a novel deep learning model to infer neural population dynamics from noisy one-photon calcium imaging data. Coordinate the lab's collaboration with experimental labs on calcium imaging experiments. Perform Tensorflow 1 to Tensorflow 2 migration on lab's previous projects."
+      "work_desc": "Undergraduate Research Assistant. Lead the development of RADICaL 1p, a novel deep learning tool to infer neural population dynamics from noisy one-photon calcium imaging data. Coordinate the lab's collaboration with experimental labs on calcium imaging experiments. Perform Tensorflow 1 to Tensorflow 2 migration on lab's previous projects."
     },
     {
       "company_name": "Emory University",
@@ -44,53 +44,63 @@
       "company_name": "Iflytek Co., Ltd.",
       "department_name": "R&D Group",
       "work_time": ["2020.05", "2020.07"],
-      "work_desc": "Software Engineer Intern in cloud computing. Maintained the voice cloud database of Iflytek under the structure of Hadoop and Scala-based Apache Spark, responded to the demand of mass voice data extraction and developed a a self-service voice data extraction platform for the company's research and business departments based on Apache Zeppelin."
+      "work_desc": "Software Engineer Intern in cloud computing. Maintained the voice cloud database of Iflytek under the structure of Hadoop and Scala-based Spark, responded to the demand of mass voice data extraction and developed a data extraction platform for cloud database end users."
     }
   ],
   "awardList": [],
   "skillList": [
     {
-      "skill_name": "HTML 和 CSS",
+      "skill_name": "Python",
       "skill_desc": "",
-      "skill_level": 89
-    },
-    {
-      "skill_name": "TypeScript / JavaScript",
-      "skill_desc": "熟悉 TypeScript，丰富的 ts 项目经验",
       "skill_level": 90
     },
     {
-      "skill_name": "数据可视化",
-      "skill_desc": "丰富的可视化工程实践以及开源经验",
-      "skill_level": 90
+      "skill_name": "Java",
+      "skill_desc": "",
+      "skill_level": 82
     },
     {
-      "skill_name": "React / 前端工程化",
-      "skill_desc": "大型前端项目经验以及组件库开发经验",
+      "skill_name": "Scala",
+      "skill_desc": "",
+      "skill_level": 82
+    },
+    {
+      "skill_name": "Machine Learning",
+      "skill_desc": "",
       "skill_level": 85
-    }
+    },
+    {
+      "skill_name": "Hadoop and Spark",
+      "skill_desc": "",
+      "skill_level": 80
+    },
+    {
+      "skill_name": "Data Visulization",
+      "skill_desc": "",
+      "skill_level": 80
+    },
   ],
   "projectList": [
     {
       "project_name": "RADICaL 1p",
-      "project_role": "Project Leader",
+      "project_role": "Project Leader and Developer",
       "project_time": "2021.08 - present",
-      "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+      "project_desc": "RADICaL 1p is deep learning tool based on LFADS, a sequential model with RNN-based variational auto-encoder to infer brain neural activities from noisy one-photon calcium imaging data.",
+      "project_content": "1. "
     },
     {
-      "project_name": "DeepInsight",
-      "project_role": "",
+      "project_name": "Pharmacological Treatment Analysis for Dystonia and Parkinson's Disease",
+      "project_role": "Data Engineer",
       "project_time": "2021.02 - present",
-      "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
-      "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
+      "project_desc": "Explore the ",
+      "project_content": "1. Developed a Python-based comparative data analysis pipeline 2. Perform data visualization "
     },
     {
-      "project_name": "G2、G2Plot",
+      "project_name": "Odeon",
       "project_role": "Developer",
-      "project_time": "2019 - 至今",
-      "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-      "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
+      "project_time": "2020.5 - 2020.7",
+      "project_desc": "Odeon is a cloud computing platform developed by Iflytek to maintain, process and visualize mass business data.",
+      "project_content": "Developed a self-service data extraction platform for the company's research and business departments based on Apache Zeppelin. This platfrom enabled end users to extract data from Odeon."
     }
   ],
   "workList": [],
