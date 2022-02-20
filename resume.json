@@ -18,6 +18,7 @@
     "mobile": "+1-4044888479 • +86-13705650279",
     "github": "https://github.com/JingyangKe",
     "workExpYear": "",
+    "positionTitle": "Engineer"
   },
   "educationList": [
     {
@@ -43,7 +44,7 @@
       "company_name": "Iflytek Co., Ltd.",
       "department_name": "R&D Group",
       "work_time": ["2020.05", "2020.07"],
-      "work_desc": "S"
+      "work_desc": "Software Engineer Intern in cloud computing. Maintained the voice cloud database of Iflytek under the structure of Hadoop and Scala-based Apache Spark, responded to the demand of mass voice data extraction and developed a a self-service voice data extraction platform for the company's research and business departments based on Apache Zeppelin."
     }
   ],
   "awardList": [],
