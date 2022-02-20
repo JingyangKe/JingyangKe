@@ -29,8 +29,8 @@
   "workExpList": [
     {
       "company_name": "Georgia Institute of Technology",
-      "department_name": "Systems Neural Engineering Lab",
-      "work_time": ["2021.02", null],
+      "department_name": "\nSystems Neural Engineering Lab",
+      "work_time": ["2021.02", "present"],
       "work_desc": "Undergraduate Research Assistant. Lead the development of RADICaL 1p, a novel deep learning tool to infer neural population dynamics from noisy one-photon calcium imaging data. Coordinate the lab's collaboration with experimental labs on calcium imaging experiments. Perform Tensorflow 1 to Tensorflow 2 migration on lab's previous projects."
     },
     {
