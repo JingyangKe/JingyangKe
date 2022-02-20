@@ -84,7 +84,7 @@
       "project_name": "RADICaL 1p",
       "project_role": "Project Leader and Developer",
       "project_time": "2021.08 - present",
-      "project_desc": "RADICaL 1p is deep learning tool based on LFADS, a sequential model with RNN-based variational auto-encoder to infer brain neural activities from noisy one-photon calcium imaging data.",
+      "project_desc": "A deep learning tool based on LFADS, a sequential model with RNN-based variational auto-encoder to infer brain neural activities from noisy one-photon calcium imaging data",
       "project_content": "\n1. Design and implement the deep learning model on Tensorflow 2 \n2. Perform data cleaning on raw data, test the model and analyze result data to check the performance"
     },
     {
@@ -92,7 +92,7 @@
       "project_role": "Data Engineer",
       "project_time": "2021.02 - present",
       "project_desc": "Explore animals' neural activities and behaivors to discover and verify the effect of candidate drugs on Dystonia and Parkinson's Disease",
-      "project_content": "\n1. Developed a Python-based comparative data analysis pipeline with CaImAn and DeepLabCut on animals' neural and behavior data \n2. Performed data visualization with Matplotlib and Pandas \n3. Apply deep learning models to explore the neural population dynamics and the relationship between neural and behavior data"
+      "project_content": "\n1. Developed a comparative data analysis and visualization pipeline for animals' neural and behavior data \n2. Apply deep learning models to explore the neural population dynamics and the relationship between neural and behavior data"
     },
     {
       "project_name": "Odeon",
