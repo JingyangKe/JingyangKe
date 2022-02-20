@@ -91,8 +91,8 @@
       "project_name": "Odeon",
       "project_role": "Developer",
       "project_time": "2020.5 - 2020.7",
-      "project_desc": "Odeon is a cloud computing platform developed by Iflytek to maintain, process and visualize mass business data.",
-      "project_content": "Developed a self-service data extraction platform for the company's research and business departments based on Apache Zeppelin. This platfrom enabled end users to extract data from Odeon."
+      "project_desc": "A cloud computing platform developed by Iflytek to maintain, process and visualize mass business data.",
+      "project_content": "Developed a self-service data extraction platform in Odeon for the company's research and business departments based on Apache Zeppelin. This platfrom enabled end users to self-extract data from Odeon easily."
     }
   ],
   "workList": [],
