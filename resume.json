@@ -14,15 +14,13 @@
   },
   "profile": {
     "name": "Jingyang Ke",
-    "email": "jingyang.ke@gatech.edu",
-    "email": "jingyang.ke@outlook.com",
-    "mobile": "+1-4044888479",
-    "mobile": "+86-13705650279",
+    "email": "jingyang.ke@outlook.com • jingyang.ke@gatech.edu",
+    "mobile": "+1-4044888479 • +86-13705650279",
     "github": "https://github.com/JingyangKe",
     "workExpYear": "",
     "positionTitle": "Data Engineer"
   },
-  "educationList": [
+  "aboutme": [
     {
       "edu_time": ["2019.08", "2023.05"],
       "school": "Georgia Institute of Technology",
